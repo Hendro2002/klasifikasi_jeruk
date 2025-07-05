@@ -32,7 +32,7 @@ Silakan buat _issue_ atau _pull request_ untuk saran, perbaikan, maupun penambah
 
 ## Lisensi
 
-Proyek ini dilindungi oleh lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail.
+Proyek ini dilindungi oleh lisensi MIT. Lihat file [LICENSE](LICENSE.md) untuk detail.
 
 ---
 
